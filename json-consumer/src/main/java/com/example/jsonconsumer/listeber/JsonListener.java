@@ -1,7 +1,6 @@
 package com.example.jsonconsumer.listeber;
 
 import com.example.jsonconsumer.model.Payment;
-import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.kafka.annotation.KafkaListener;
